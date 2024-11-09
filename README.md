@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android development, Kotlin, or software architecture
 - 📫 How to reach me: [amiteshsinghk@gmail.com](amiteshsinghk@gmail.com)
 - Linkedin: [www.linkedin.com/in/amitesh-singh-kundan-59725782](www.linkedin.com/in/amitesh-singh-kundan-59725782)
-- Expert In
   
 # Platforms and Expertise
 
