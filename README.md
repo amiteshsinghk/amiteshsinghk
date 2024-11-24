@@ -6,7 +6,7 @@ I'm a passionate Android Developer with 5+ years of experience, specializing in 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building efficient, scalable Android mobile and Tv application.
-- 🌱 I’m learning Jetpack Compose and Kotlin Multiplatform to build modern UIs for Android apps.
+- 🌱 I’m learning Jetpack Compose and Kotlin Multiplatform(KMP) to build modern UIs for Android apps.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Android development, Kotlin, or software architecture
