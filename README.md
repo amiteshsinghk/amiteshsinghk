@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 ![MVI](https://img.shields.io/badge/MVI-FF9800?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-2196F3?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-9C27B0?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0052CC?style=for-the-badge&logo=Clean%20Architecture&logoColor=white)
 
 
 
