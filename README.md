@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge)
 ![Koin](https://img.shields.io/badge/Koin-6200EA?style=for-the-badge)
 ![Kodein](https://img.shields.io/badge/Kodein-3DDC84?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-4285F4?style=for-the-badge)
 
 - **Development Tools**:
 
